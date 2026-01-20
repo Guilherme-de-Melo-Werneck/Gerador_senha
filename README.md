@@ -1,39 +1,103 @@
-# Gerador de senha :arrows_counterclockwise:
+<!-- README.md (em HTML) -->
 
-# Sobre o projeto:
-Este projeto utiliza a linguagem de programação Python para criar um programa capaz de gerar senhas aleatórias com base nas preferências do usuário. 
-Ao executar o programa, o usuário é solicitado a inserir o tamanho desejado para a senha.
+<!-- ✅ Parte centralizada (como na imagem) -->
+<div align="center">
 
-O programa faz uso da biblioteca random, que fornece funções relacionadas à geração de números aleatórios, e da biblioteca string, que contém 
-constantes úteis com caracteres. Essas bibliotecas são utilizadas para definir os caracteres que serão utilizados na senha.
+  <h1>🔁 Gerador de Senha</h1>
 
-<br>
+  <p>
+    <strong>Gerador de senhas aleatórias em Python</strong><br/>
+    Projeto simples para criar senhas com o tamanho escolhido pelo usuário
+  </p>
 
-## Desktop:
-![Web](https://github.com/Guilherme-de-Melo-Werneck/Portfolio/assets/110049442/f852402c-783f-4ced-ab99-b6e70a42b078)
+  <!-- “Badges” (linguagens/recursos) -->
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Random" src="https://img.shields.io/badge/RANDOM-lib-111111?style=for-the-badge" />
+    <img alt="String" src="https://img.shields.io/badge/STRING-lib-111111?style=for-the-badge" />
+    <img alt="CLI" src="https://img.shields.io/badge/CLI-Terminal-2E7D32?style=for-the-badge" />
+  </p>
 
+  <p>
+    <a href="https://github.com/Guilherme-de-Melo-Werneck/Gerador_senha" target="_blank">📦 Repositório</a>
+    &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank">🔗 LinkedIn</a>
+  </p>
 
-<br>
+</div>
 
-# Tecnologias utilizadas:
-- PYTHON
+<br/>
+<hr/>
+<br/>
 
-<br>
+<!-- ✅ Resto NÃO centralizado -->
+<h2>📌 Sobre o projeto</h2>
 
-# Como executar o projeto:
+<p>
+  Este projeto utiliza <strong>Python</strong> para criar um programa capaz de gerar <strong>senhas aleatórias</strong>
+  com base nas preferências do usuário.
+</p>
 
-```bash
-# clonar repositório
-git clone https: https://github.com/Guilherme-de-Melo-Werneck/Gerador_senha.git
+<p>
+  Ao executar o programa, o usuário informa o <strong>tamanho desejado</strong> da senha.  
+  O script utiliza:
+</p>
 
-# Abra o terminal e escreva
-python gerador.py
+<ul>
+  <li><strong>random</strong>: para gerar escolhas aleatórias</li>
+  <li><strong>string</strong>: para obter conjuntos de caracteres (letras, números, símbolos)</li>
+</ul>
 
-```
-<br>
+<br/>
 
-# Autor:
+<h2>🖥️ Desktop</h2>
 
-Guilherme de Melo Werneck
+<p>
+  <img
+    src="https://github.com/Guilherme-de-Melo-Werneck/Portfolio/assets/110049442/f852402c-783f-4ced-ab99-b6e70a42b078"
+    alt="Preview do Gerador de Senha"
+    width="900"
+  />
+</p>
 
-https://www.linkedin.com/in/guilherme-werneck-96a276260/
+<br/>
+<hr/>
+<br/>
+
+<h2>🧰 Tecnologias utilizadas</h2>
+<ul>
+  <li><strong>Python</strong></li>
+</ul>
+
+<br/>
+
+<h2>⚙️ Como executar o projeto</h2>
+
+<ol>
+  <li>
+    <strong>Clone o repositório</strong>:
+    <pre><code>git clone https://github.com/Guilherme-de-Melo-Werneck/Gerador_senha.git</code></pre>
+  </li>
+
+  <li>
+    <strong>Acesse a pasta do projeto</strong>:
+    <pre><code>cd Gerador_senha</code></pre>
+  </li>
+
+  <li>
+    <strong>Execute o arquivo</strong>:
+    <pre><code>python gerador.py</code></pre>
+  </li>
+</ol>
+
+<br/>
+<hr/>
+<br/>
+
+<h2>👤 Autor</h2>
+<p>
+  <strong>Guilherme de Melo Werneck</strong><br/>
+  <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank">
+    https://www.linkedin.com/in/guilherme-werneck-96a276260/
+  </a>
+</p>
